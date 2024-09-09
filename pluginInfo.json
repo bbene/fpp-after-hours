@@ -1,11 +1,11 @@
 {
     "repoName": "fpp-after-hours",
-    "name": "After Hours Music Player Plugin",
-    "author": "Jason Cross (jcross)",
+    "name": "After Hours Music Player Plugin / Forked Version for Soundblaster",
+    "author": "Jason Cross (jcross) / Ben Benesh (bbene)",
     "description": "This plugin allows you to configure music sources for playback typically outside of show hours.",
-    "homeURL": "https://github.com/jcrossbdn/fpp-after-hours",
-    "srcURL": "https://github.com/jcrossbdn/fpp-after-hours.git",
-    "bugURL": "https://github.com/jcrossbdn/fpp-after-hours/issues",
+    "homeURL": "https://github.com/bbene/fpp-after-hours",
+    "srcURL": "https://github.com/bbene/fpp-after-hours.git",
+    "bugURL": "https://github.com/bbene/fpp-after-hours/issues",
     "allowUpdates": 1,
     "versions": [
         {
